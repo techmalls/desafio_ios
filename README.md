@@ -1,6 +1,6 @@
-# Quer ajudar a gente transformar nossos shoppings em destino de felicidade e oportunidades? 
+# Quer transformar nossos shoppings em destino de felicidade e oportunidades? 
 
-Se a resposta é sim, então esse desafio é para você. Aqui você será responsável por nos ajudar a evoluir nossos produtos digitais. Hoje nossos devs são responsáveis pelos apps dos nossos shoppings, programa de benefícios, e-shopping e ainda tem muito mais por vir ;)
+Então esse teste é para você. Venha nos ajudar a evoluir nossos produtos digitais. Hoje nossos devs são responsáveis pelos apps dos nossos shoppings, programa de benefícios e e-shopping ;)
 
 
 # O Desafio
@@ -39,8 +39,6 @@ Se a resposta é sim, então esse desafio é para você. Aqui você será respon
 
 A brMalls é a maior empresa integrada de shoppings do Brasil, com participação em 31 shopping centers, atendendo aos consumidores das diferentes classes sociais no país. 
 
-Além de deter participações, somos especializados na administração e comercialização de espaços em nossos shopping centers. Possuímos experiência na gestão de empreendimentos comerciais, e uma rede de relacionamentos com as principais redes varejistas do país, facilitando a comercialização de seus espaços. 
-
-Atualmente, oferecemos serviços de administração ou comercialização para 29 dos 31 shopping centers que detemos participação. Nossos ativos estão espalhados por diversas regiões do país e em 2018 apresentaram um total de R$20,8 bilhões em vendas.
+Acreditamos que o nosso negócio consiste em um business de plataforma, que promove a conexão entre lojistas e consumidores através de nossos ativos. Nossa estratégia está baseada em conhecer cada vez mais os nossos clientes (consumidores, lojistas e anunciantes) para aumentarmos a proposta de valor para cada um deles e por consequência adicionar valor ao nosso negócio.
 
 Além de movimentar a economia das regiões onde estamos presentes, nós também somos uma rede transformadora capaz de promover, todos os dias, um espaço de convivência, felicidade e oportunidades.
