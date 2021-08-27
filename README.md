@@ -10,6 +10,9 @@ Então esse teste é para você. Venha nos ajudar a evoluir nossos produtos digi
 * O serviço para consulta pode ser visualizado em:
 * https://rickandmortyapi.com/documentation (character)
 
+![](rickAndMorty.gif)
+
+
 # Regras Gerais
 
 * Criar testes unitários;
